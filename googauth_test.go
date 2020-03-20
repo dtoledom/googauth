@@ -1,4 +1,4 @@
-package dgoogauth
+package googauth
 
 import (
 	"fmt"
